@@ -7,8 +7,8 @@
  3. 🎒 A program checking for homework assignments due
 
 **Contact:**
-⚫ Discord: Skipper#9162
 
+⚫ Discord: Skipper#9162
 📧 Email: juicyseals@gmail.com
 
  
