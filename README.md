@@ -8,7 +8,7 @@
 
 **Contact:**
 
-⚫ Discord: Skipper#9162
+⚫ Discord: JuicySeals#9162
 
 📧 Email: juicyseals@gmail.com
 
