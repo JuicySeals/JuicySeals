@@ -8,7 +8,7 @@
 
 **Contact:**
 
-⚫ Discord: JuicySeals#9162
+⚫ Discord: JuicySeals#7241
 
 📧 Email: juicyseals@gmail.com
 
