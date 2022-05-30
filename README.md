@@ -2,7 +2,7 @@
 
 **🙂 Current Projects:**
 
- 1. 🔀 Reversed engineering [Blookets](https://www.blooket.com/) API to make a auto answer using Selenium
+ 1. 🔀 Fastbridger plugin for Xenify
 
 **Contact:**
 
