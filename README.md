@@ -24,4 +24,5 @@ Hello! I'm a passionate Java developer with 4 years of experience, specializing 
 - Bungee API 💻 
 - NMS 🖥️ 
 - MySQL 💽
+- PostgreSQL 💽
 - GitHub VCS 💾
