@@ -1,8 +1,7 @@
+![Artboard 1](https://github.com/JuicySeals/JuicySeals/assets/64713886/13ac57e1-1233-42bd-b06a-c0da4c721276)
+
 # JuicySeals - Java Developer with a Focus on Spigot
-
-![Artboard 1](https://github.com/JuicySeals/JuicySeals/assets/64713886/142b6b1c-d87e-45db-adf7-658e6bb7c40a)
-
-Hello! I'm a passionate Java developer with 4 years of experience, specializing in Spigot development for Minecraft.
+Hello! I'm a passionate Java developer with 4 years of experience, specializing in Spigot development for Minecraft. blackgate is the name my work goes under
 
 ## 🚀 About Me
 
