@@ -1,6 +1,6 @@
 # JuicySeals - Java Developer with a Focus on Spigot
 
-![Profile Banner]((https://i.imgur.com/Fyj2szT.png)
+![Artboard 1](https://github.com/JuicySeals/JuicySeals/assets/64713886/142b6b1c-d87e-45db-adf7-658e6bb7c40a)
 
 Hello! I'm a passionate Java developer with 4 years of experience, specializing in Spigot development for Minecraft.
 
