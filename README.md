@@ -25,4 +25,5 @@ Hello! I'm a passionate Java developer with 4 years of experience, specializing 
 - NMS 🖥️ 
 - MySQL 💽
 - PostgreSQL 💽
+- Redis 🗺️
 - GitHub VCS 💾
