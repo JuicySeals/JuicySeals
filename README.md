@@ -5,7 +5,7 @@ Hello! I'm a passionate Java developer with 4 years of experience, specializing 
 
 ## 🚀 Highlights
 
-- 📣 165k+ users
+- 📣 170k+ users
 - 💾 1500+ downloads
 - ⭐️ 4.8 star average review
 
