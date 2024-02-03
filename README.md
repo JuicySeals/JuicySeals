@@ -3,7 +3,13 @@
 # JuicySeals - Java Developer with a Focus on Spigot
 Hello! I'm a passionate Java developer with 4 years of experience, specializing in Spigot development for Minecraft. blackgate is the name my work goes under
 
-## 🚀 About Me
+## 🚀 Highlights
+
+- 📣 170k+ users
+- 💾 1500+ downloads
+- ⭐️ 4.8 average review
+
+## 🧍‍♂️ About Me
 
 - 💼 **Languages**: Java
 - 🎮 **Specialization**: Spigot (Minecraft)
