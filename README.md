@@ -1,7 +1,7 @@
 ![output](https://github.com/user-attachments/assets/7038c327-c8ae-459a-9c4a-d90d77b4f742)
 
 # JuicySeals - Java Developer
-Hello! I'm a Java developer with over 5 years of experience, specializing in Spigot development for Minecraft. blackgate is the name my work goes under
+Hello! I'm a Java developer with over 5 years of experience. blackgate is the name my work goes under
 
 ## 🚀 Highlights
 
